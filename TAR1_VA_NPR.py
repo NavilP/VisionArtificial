@@ -10,7 +10,7 @@ def g(x):
 # Mínimo de campañas
 min = 0
 # Maximo de campañas de Social Media
-max_x = 2500 / 30
+max_x = 2500 / 36
 # Maximo de campañas de TV
 max_y = 2500 / 200
 
