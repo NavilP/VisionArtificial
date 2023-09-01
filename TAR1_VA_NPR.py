@@ -10,10 +10,9 @@ def g(x):
 # Mínimo de campañas
 min = 0
 # Maximo de campañas de Social Media
-max_x = 2500 / 25
+max_x = 2500 / 30
 # Maximo de campañas de TV
-max_y = 2500 / 250
-
+max_y = 2500 / 200
 
 # Generar puntos para la gráfica
 x = np.linspace(min, max_x, 100)
